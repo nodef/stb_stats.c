@@ -1,0 +1,28 @@
+{
+  "name": "stb_stats.c",
+  "version": "1.24.1",
+  "description": "Single header file with a bunch of useful statistical functions such as ANOVA, Kruskal-Wallis, T-test, etc; Gerben Voshol (2018).",
+  "keywords": [
+    "c",
+    "library",
+    "statistics",
+    "anova",
+    "t-test",
+    "kruskal-wallis",
+    "correlation",
+    "regression"
+  ],
+  "homepage": "https://github.com/nodef/stb_stats.c#readme",
+  "bugs": {
+    "url": "https://github.com/nodef/stb_stats.c/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/stb_stats.c.git"
+  },
+  "license": "UNLICENSED",
+  "main": "stb_stats.h",
+  "scripts": {
+    "test": "bash build.sh test"
+  }
+}
