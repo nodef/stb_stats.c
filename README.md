@@ -56,6 +56,7 @@ And then include `stb_stats.h` as follows:
 
 ```c
 // main.c
+#define STB_STATS_IMPLEMENTATION
 #include "node_modules/stb_stats.c/stb_stats.h"
 
 int main() { /* ... */ }
@@ -72,6 +73,7 @@ You may also use a simpler approach:
 
 ```c
 // main.c
+#define STB_STATS_IMPLEMENTATION
 #include <stb_stats.h>
 
 int main() { /* ... */ }

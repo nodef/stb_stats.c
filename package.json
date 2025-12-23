@@ -1,6 +1,6 @@
 {
   "name": "stb_stats.c",
-  "version": "1.24.1",
+  "version": "1.24.2",
   "description": "Single header file with a bunch of useful statistical functions such as ANOVA, Kruskal-Wallis, T-test, etc; Gerben Voshol (2018).",
   "keywords": [
     "c",
